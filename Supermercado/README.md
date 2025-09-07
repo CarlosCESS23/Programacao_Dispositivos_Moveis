@@ -10,7 +10,9 @@ abaixo relativas à avaliação. </p>
 <h2>Estrutura do Supermercado: </h2>
 
 	Supermercado/
-	├── Atividade/   # Onde estão os códigos da atividade 
+	├── Atividade/   # Onde estão os códigos da atividade
+ 		├──AP2		 
+   		└──AP3
 	├── Classes/     # As classes de supermercado 
 	└── Util/     	 # Algumas funções de utilidade e criação de vários objetos da classe Produto
 
@@ -22,4 +24,3 @@ Alunos: <ul>
 </ul>
 </p>
 </h3>
-
