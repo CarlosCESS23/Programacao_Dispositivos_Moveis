@@ -11,8 +11,8 @@ abaixo relativas à avaliação. </p>
 
 	Supermercado/
 	├── Atividade/   # Onde estão os códigos da atividade
- 		├──AP2		 
-   		└──AP3
+ 	│	├──AP2		 
+   	│	└──AP3
 	├── Classes/     # As classes de supermercado 
 	└── Util/     	 # Algumas funções de utilidade e criação de vários objetos da classe Produto
 
