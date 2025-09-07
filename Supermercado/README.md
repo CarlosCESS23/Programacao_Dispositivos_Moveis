@@ -7,6 +7,13 @@ especificação, empregando encapsulamento, herança, associações, sobrecarga 
 qualquer outro assunto ministrado nas aulas de Kotlin, se necessário), e responda as questões
 abaixo relativas à avaliação. </p>
 
+<h2>Estrutura do Supermercado: </h2>
+
+	Supermercado/
+	├── Atividade/   # Onde estão os códigos da atividade 
+	├── Classes/     # As classes de supermercado 
+	└── Util/     	 # Algumas funções de utilidade e criação de vários objetos da classe Produto
+
 <h3>
 <p>
 Alunos: <ul>
