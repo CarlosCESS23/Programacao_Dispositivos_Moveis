@@ -19,17 +19,19 @@ Os exercícios estão dividos em seções em que vai criar:
 	<li>
 Uma classe de dados de temas para curso		
 	</li>
+<br>
 Pois os dados de temas vão incluir uma imagem, um nome e o número de cursos relacionados a cada tema
-
+<br>
 <li>
 Um elemento combinável para representar um item da grade de temas dos cursos:
 </li>
+<br>
 Cada item vai mostrar a imagem, o nome e o número de cursos relacionados a um determinado tema, além
 de ícone decorativo
-</ul>
 <li>
-Um elemento combinável para mostrar uma grade dos itens dos temas de cada curso:
+Um elemento combinável para mostrar uma grade dos itens dos temas de cada curso
 </li>
 
+</ul>
 
 </p>
