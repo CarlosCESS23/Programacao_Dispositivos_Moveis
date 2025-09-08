@@ -1,0 +1,652 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <!-- Metadados -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="index,follow">
+    <meta name="author" content="Departamento de Comunicação do Instituto Federal do Rio Grande do Sul">
+    <meta name="description" content="O IFRS é uma instituição federal de ensino público e gratuito. Atua com uma estrutura multicampi para promover a educação profissional e tecnológica de excelência e impulsionar o desenvolvimento sustentável das regiões.">
+    <meta name="keywords" content="ifrs, portal, site, institucional, faculdade, universidade, ensino, pesquisa, extensão, cursos">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/favicons/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/favicons/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/favicons/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/favicons/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/favicons/manifest.json">
+<link rel="mask-icon" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/favicons/safari-pinned-tab.svg" color="#195128">
+<link rel="shortcut icon" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/favicons/favicon.ico">
+<meta name="msapplication-TileImage" content="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/favicons/mstile-144x144.png">
+<meta name="msapplication-config" content="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/favicons/browserconfig.xml">
+<meta name="msapplication-navbutton-color" content="#195128">
+<meta name="msapplication-TileColor" content="#00a300">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="theme-color" content="#195128">
+    <!-- Contexto Barra Brasil -->
+    <meta property="creator.productor" content="http://estruturaorganizacional.dados.gov.br/id/unidade-organizacional/100918">
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="Campus Sertão Feed" href="https://ifrs.edu.br/sertao/feed/">
+    <!-- WP -->
+        <link rel="preconnect" href="https://vlibras.gov.br">
+<link rel="preload" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme-campus/img/ifrs.png" as="image"/><!-- This site is running CAOS for WordPress -->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	    <link rel="preload" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/opensans/Regular/OpenSans-Regular.woff2" as="font" type="font/woff2" crossorigin="anonymous"/>
+    <link rel="preload" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/css/fonts.css" as="style"/>
+    <link rel="stylesheet" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/css/fonts.css" media="print" onload="this.media='all'"/>
+    <noscript>
+        <link rel="stylesheet" href="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/css/fonts.css"/>
+    </noscript>
+
+	<!-- This site is optimized with the Yoast SEO plugin v25.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Licenciatura em Ciências Biológicas - Campus Sertão</title>
+	<link rel="canonical" href="https://ifrs.edu.br/sertao/ensino/cursos-superiores/licenciatura-em-ciencias-biologicas/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Licenciatura em Ciências Biológicas - Campus Sertão" />
+	<meta property="og:description" content="&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Perfil profissional:&nbsp;&nbsp;O licenciado em Ci&ecirc;ncias Biol&oacute;gicas estar&aacute; apto a atuar profissionalmente como docente no Ensino B&aacute;sico, especificamente no Ensino Fundamental II e Ensino M&eacute;dio, desempenhando as seguintes fun&ccedil;&otilde;es: doc&ecirc;ncia em ensino de Ci&ecirc;ncias; doc&ecirc;ncia em ensino de Biologia; elabora&ccedil;&atilde;o e condu&ccedil;&atilde;o de atividades de divulga&ccedil;&atilde;o das Ci&ecirc;ncias e da Biologia. Dura&ccedil;&atilde;o: 4 anos Turno: manh&atilde;&hellip;" />
+	<meta property="og:url" content="https://ifrs.edu.br/sertao/ensino/cursos-superiores/licenciatura-em-ciencias-biologicas/" />
+	<meta property="og:site_name" content="Campus Sertão" />
+	<meta property="article:publisher" content="https://www.facebook.com/IFRSOficial" />
+	<meta property="article:modified_time" content="2025-05-12T11:49:44+00:00" />
+	<meta property="og:image" content="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2019/08/Ciências-Biológicas.jpg" />
+	<meta property="og:image:width" content="1427" />
+	<meta property="og:image:height" content="482" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@IF_RS" />
+	<meta name="twitter:label1" content="Est. tempo de leitura" />
+	<meta name="twitter:data1" content="2 minutos" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://ifrs.edu.br/sertao/ensino/cursos-superiores/licenciatura-em-ciencias-biologicas/","url":"https://ifrs.edu.br/sertao/ensino/cursos-superiores/licenciatura-em-ciencias-biologicas/","name":"Licenciatura em Ciências Biológicas - Campus Sertão","isPartOf":{"@id":"https://ifrs.edu.br/sertao/#website"},"primaryImageOfPage":{"@id":"https://ifrs.edu.br/sertao/ensino/cursos-superiores/licenciatura-em-ciencias-biologicas/#primaryimage"},"image":{"@id":"https://ifrs.edu.br/sertao/ensino/cursos-superiores/licenciatura-em-ciencias-biologicas/#primaryimage"},"thumbnailUrl":"https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2019/08/Ciências-Biológicas.jpg","datePublished":"2018-03-27T15:55:01+00:00","dateModified":"2025-05-12T11:49:44+00:00","breadcrumb":{"@id":"https://ifrs.edu.br/sertao/ensino/cursos-superiores/licenciatura-em-ciencias-biologicas/#breadcrumb"},"inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://ifrs.edu.br/sertao/ensino/cursos-superiores/licenciatura-em-ciencias-biologicas/"]}]},{"@type":"ImageObject","inLanguage":"pt-BR","@id":"https://ifrs.edu.br/sertao/ensino/cursos-superiores/licenciatura-em-ciencias-biologicas/#primaryimage","url":"https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2019/08/Ciências-Biológicas.jpg","contentUrl":"https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2019/08/Ciências-Biológicas.jpg","width":1427,"height":482},{"@type":"BreadcrumbList","@id":"https://ifrs.edu.br/sertao/ensino/cursos-superiores/licenciatura-em-ciencias-biologicas/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Início","item":"https://ifrs.edu.br/sertao/"},{"@type":"ListItem","position":2,"name":"Ensino","item":"https://ifrs.edu.br/sertao/ensino/"},{"@type":"ListItem","position":3,"name":"Cursos Superiores","item":"https://ifrs.edu.br/sertao/ensino/cursos-superiores/"},{"@type":"ListItem","position":4,"name":"Licenciatura em Ciências Biológicas"}]},{"@type":"WebSite","@id":"https://ifrs.edu.br/sertao/#website","url":"https://ifrs.edu.br/sertao/","name":"Campus Sertão","description":"Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://ifrs.edu.br/sertao/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"pt-BR"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//vlibras.gov.br' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='preconnect' href='//www.google-analytics.com' />
+<link rel="alternate" type="application/rss+xml" title="Feed para Campus Sertão &raquo;" href="https://ifrs.edu.br/sertao/feed/" />
+<link rel='stylesheet' id='vendor-css' href='https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/css/vendor.css?ver=1669296038' type='text/css' media='all' />
+<link rel='stylesheet' id='portal-css' href='https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/css/portal.css?ver=1707238526' type='text/css' media='all' />
+<link rel='stylesheet' id='page-css' href='https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/css/page_page.css?ver=1707238525' type='text/css' media='all' />
+<link rel='stylesheet' id='css-campi-css' href='https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme-campus/css/campi.css?ver=1653058019' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='share-css' href='https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/css/partial_share.css?ver=1707238525' type='text/css' media='all' />
+<script data-cfasync="false" type="text/javascript" src="https://ifrs.edu.br/sertao/wp-content/uploads/caos/3d685199.js?id=G-3QVEQT1C0L" id="caos-gtag-js"></script>
+<script data-cfasync="false" type="text/javascript" id="caos-gtag-js-after">
+/* <![CDATA[ */
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'G-3QVEQT1C0L', {"cookie_domain":"ifrs.edu.br","cookie_flags":"samesite=none;secure","allow_google_signals":false});
+	
+/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://ifrs.edu.br/sertao/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://ifrs.edu.br/sertao/wp-json/wp/v2/pages/364" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ifrs.edu.br/sertao/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://ifrs.edu.br/sertao/?p=364' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://ifrs.edu.br/sertao/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fifrs.edu.br%2Fsertao%2Fensino%2Fcursos-superiores%2Flicenciatura-em-ciencias-biologicas%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://ifrs.edu.br/sertao/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fifrs.edu.br%2Fsertao%2Fensino%2Fcursos-superiores%2Flicenciatura-em-ciencias-biologicas%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.159.0" /><meta name="google-site-verification" content="xtZqYvUgTfLdSbtR2cXxKboZXpuHwrJICJ_CVHJBLf4">		<style type="text/css" id="wp-custom-css">
+			.menu-relevancia a[href^="http"]:not([href^="https://ifrs.edu.br"])::after {
+  content: "";
+  width: 10px;
+  height: 10px;
+  margin-left: 4px;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%2303316f' viewBox='0 0 16 16'%3E%3Cpath fill-rule='evenodd' d='M8.636 3.5a.5.5 0 0 0-.5-.5H1.5A1.5 1.5 0 0 0 0 4.5v10A1.5 1.5 0 0 0 1.5 16h10a1.5 1.5 0 0 0 1.5-1.5V7.864a.5.5 0 0 0-1 0V14.5a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h6.636a.5.5 0 0 0 .5-.5z'/%3E%3Cpath fill-rule='evenodd' d='M16 .5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0 0 1h3.793L6.146 9.146a.5.5 0 1 0 .708.708L15 1.707V5.5a.5.5 0 0 0 1 0v-5z'/%3E%3C/svg%3E");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  display: inline-block;
+}		</style>
+		</head>
+
+<body class="wp-singular page-template-default page page-id-364 page-child parent-pageid-344 wp-embed-responsive wp-theme-ifrs-portal-theme wp-child-theme-ifrs-portal-theme-campus">
+    <a href="#inicio-conteudo" class="sr-only sr-only-focusable">Pular para o conte&uacute;do</a>
+
+    
+    <!-- Cabeçalho -->
+    <header class="header">
+        <div class="container">
+            <div class="row header__menus">
+                <div class="col-12 col-lg-6">
+                    <ul class="menu-atalhos ">
+    <li><a href="#inicio-conteudo" accesskey="1">Ir para o conteúdo&nbsp;<span class="badge badge-secondary">1</span></a></li>
+    <li><a href="#inicio-menu" accesskey="2">Ir para o menu&nbsp;<span class="badge badge-secondary">2</span></a></li>
+    <li><a href="#search-field" accesskey="3">Ir para a busca&nbsp;<span class="badge badge-secondary">3</span></a></li>
+    <li><a href="#inicio-rodape" accesskey="4">Ir para o rodapé&nbsp;<span class="badge badge-secondary">4</span></a></li>
+</ul>
+                </div>
+                <div class="col-12 col-lg-6">
+                    <nav class="menu-acessibilidade-container"><ul id="menu-acessibilidade" class="menu-acessibilidade"><li id="menu-item-215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-215"><a href="https://ifrs.edu.br/sertao/acessibilidade/">Acessibilidade</a></li>
+<li id="menu-item-23403" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23403"><a href="https://ifrs.edu.br/sertao/sitemap/">Mapa do Site</a></li>
+<li id="menu-item-324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-324"><a href="https://ifrs.edu.br/sertao/cursos/">Cursos</a></li>
+<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="https://ifrs.edu.br/sertao/documentos_sertao/">Documentos</a></li>
+</ul></nav>                </div>
+            </div>
+            <div class="row header__content">
+                <div class="col-12 col-lg-8 header__title">
+                        <a href="https://ifrs.edu.br/sertao/" class="title-link">
+        <img src="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme-campus/img/ifrs.png" alt="" aria-hidden="true" class="title-img" width="70" height="95"/>
+        <h1 class="title-campus">
+            <small>Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul</small>
+            <br>
+            Campus Sertão        </h1>
+    </a>
+                </div>
+                <div class="col-12 col-lg-4">
+                    <div class="header__aside">
+                        <form role="search" method="get" class="form-inline searchform" action="https://ifrs.edu.br/sertao/">
+    <div class="input-group">
+        <input type="search" value="" name="s" id="search-field" class="form-control form-control-sm border-secondary searchform__field" placeholder="Buscar no portal" required>
+        <label class="searchform__label" for="search-field">Buscar no portal</label>
+        <span class="input-group-append">
+            <button type="submit" class="btn btn-dark btn-sm searchform__submit" title="Buscar em todo o Portal" value="Buscar"></button>
+        </span>
+    </div>
+</form>
+                                                    <nav>
+                                <ul class="area-social">
+                                    
+<li id="media_image-3" class="area-social__widget widget_media_image"><span class="sr-only">Facebook</span><a href="https://www.facebook.com/ifrs.sertao" target="_blank"><img width="29" height="29" class="lazyload image wp-image-225  attachment-full size-full" alt="Acesse nossa p&aacute;gina oficial no Facebook" style="max-width: 100%; height: auto;" decoding="async" data-sizes="auto" data-src="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2017/11/facebook.png" loading="lazy"></a></li><li id="media_image-4" class="area-social__widget widget_media_image"><span class="sr-only">Instagram</span><a href="https://www.instagram.com/ifrs.sertao/" target="_blank"><img width="29" height="29" class="lazyload image wp-image-400  attachment-full size-full" alt="Acesse nosso perfil oficial no Instagram" style="max-width: 100%; height: auto;" decoding="async" data-sizes="auto" data-src="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2018/03/instagram.png" loading="lazy"></a></li><li id="media_image-6" class="area-social__widget widget_media_image"><span class="sr-only">YouTube</span><a href="https://www.youtube.com/channel/UCQYJrAQmawtAZb57BoB9hNg" target="_blank"><img width="29" height="29" class="lazyload image wp-image-228  attachment-full size-full" alt="Acesse nosso canal no YouTube." style="max-width: 100%; height: auto;" decoding="async" data-sizes="auto" data-src="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2017/11/youtube.png" loading="lazy"></a></li>
+                                </ul>
+                            </nav>
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <div class="header__barra-servicos">
+            <div class="container">
+                <nav class="menu-servicos-container"><ul id="menu-servicos" class="menu-servicos"><li id="menu-item-820" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-820"><a href="https://ifrs.edu.br/">Portal do IFRS</a></li>
+<li id="menu-item-223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-223"><a href="https://ifrs.edu.br/sertao/contato/">Contatos</a></li>
+<li id="menu-item-24581" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-24581"><a href="https://ifrs.edu.br/ouvidoria/">Ouvidoria</a></li>
+<li id="menu-item-16967" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16967"><a href="https://ifrs.edu.br/sertao/institucional/comunicacao/contato/">Imprensa</a></li>
+<li id="menu-item-224" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-224"><a href="https://sertao.ifrs.edu.br/site/">Site Antigo</a></li>
+</ul></nav>            </div>
+        </div>
+    </header>
+
+    <!-- Corpo -->
+    <div class="container" id="breadcrumb"><div class="row"><div class="col"><nav aria-label="breadcrumb"><ol class="breadcrumb"><li>Voc&ecirc; est&aacute; em:&nbsp;</li><li class="breadcrumb-item"><a href="https://ifrs.edu.br/sertao">Campus Sertão</a> </li> <li class="breadcrumb-item"><a href="https://ifrs.edu.br/sertao/ensino/">Ensino</a></li><li class="breadcrumb-item"><a href="https://ifrs.edu.br/sertao/ensino/cursos-superiores/">Cursos Superiores</a></li><li class="breadcrumb-item active" aria-current="page">Licenciatura em Ciências Biológicas</li></nav></ol></div></div></div>
+    <section class="container">
+        <div class="row">
+            <div class="col-12 col-lg-2">
+                <!-- Menu -->
+                <a href="#inicio-menu" id="inicio-menu" class="sr-only">In&iacute;cio da navega&ccedil;&atilde;o</a>
+                <button class="btn btn-menu-toggle btn-lg d-block mx-auto d-lg-none"><span class="sr-only">Mostrar</span>&nbsp;Menu</button>
+<nav class="menu-navbar collapse fade show" aria-label="Navegação Principal">
+    <button type="button" class="btn btn-link menu-navbar__close d-none" aria-label="Fechar Menu">
+        <span aria-hidden="true">&times;</span>
+    </button>
+
+        <ul class="area-nav">
+        
+<li id="media_image-12" class="area-nav__widget widget_media_image"><span class="sr-only">IFRS</span><img width="165" height="190" class="lazyload image wp-image-819  attachment-full size-full" alt="Marca do Instituto Federal do Rio Grande do Sul" style="max-width: 100%; height: auto;" decoding="async" data-sizes="auto" data-src="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2018/05/marca-ifrs-vertical.jpg" loading="lazy"></li>
+    </ul>
+    
+    <ul id="menu-relevancia" class="menu-relevancia"><li id="menu-item-14517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14517"><a href="https://ifrs.edu.br/sertao/ensino-remoto/">Ensino remoto</a></li>
+<li id="menu-item-210" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-210"><a href="https://ifrs.edu.br/sertao/cursos/">Cursos</a></li>
+<li id="menu-item-243" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-243"><a href="https://ifrs.edu.br/sertao/espaco-do-estudante/">Espaço do Estudante</a></li>
+<li id="menu-item-242" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-242"><a href="https://ifrs.edu.br/sertao/espaco-do-servidor/">Espaço do Servidor</a></li>
+<li id="menu-item-15650" class="menu-item menu-item-type-post_type_archive menu-item-object-edital menu-item-15650"><a href="https://ifrs.edu.br/sertao/editais/">Editais</a></li>
+<li id="menu-item-15856" class="menu-item menu-item-type-post_type_archive menu-item-object-documento menu-item-15856"><a href="https://ifrs.edu.br/sertao/documentos/">Documentos</a></li>
+<li id="menu-item-244" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-244"><a href="https://estude.ifrs.edu.br/">Estude no IFRS</a></li>
+</ul><ul id="menu-principal" class="menu-collapse menu-principal"><li id="menu-item-566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-566"><a href="https://ifrs.edu.br/sertao/institucional/">Institucional</a>
+<ul class="sub-menu">
+	<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="https://ifrs.edu.br/sertao/institucional/avaliacao-institucional/">Avaliação Institucional</a></li>
+	<li id="menu-item-29648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29648"><a href="https://ifrs.edu.br/sertao/institucional/gabinete/">Gabinete</a></li>
+	<li id="menu-item-19927" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19927"><a href="https://ifrs.edu.br/sertao/institucional/direcao-do-campus/">Direção do Campus</a></li>
+	<li id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a href="https://ifrs.edu.br/sertao/institucional/historico/">Histórico</a></li>
+	<li id="menu-item-640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-640"><a href="https://ifrs.edu.br/sertao/institucional/horario-dos-setores-com-flexibilizacao-da-carga-horaria/">Setores e Horários</a></li>
+	<li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13"><a href="https://ifrs.edu.br/sertao/institucional/localizacao/">Localização</a></li>
+	<li id="menu-item-7859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7859"><a href="https://ifrs.edu.br/sertao/institucional/missao-visao-e-valores/">Missão, visão e valores</a></li>
+	<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="https://ifrs.edu.br/sertao/institucional/gestao-atual/">Organograma</a></li>
+	<li id="menu-item-642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-642"><a href="https://ifrs.edu.br/sertao/institucional/regimento-interno/">Regimento interno</a></li>
+	<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19"><a href="https://ifrs.edu.br/sertao/institucional/comissoes/">Comissões</a>
+	<ul class="sub-menu">
+		<li id="menu-item-8532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8532"><a href="https://ifrs.edu.br/sertao/institucional/comissoes/brigada-de-emergencia-e-incendio/">Brigada de Emergência e Incêndio</a></li>
+		<li id="menu-item-32793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32793"><a href="https://ifrs.edu.br/sertao/institucional/comissoes/comissao-propria-de-avaliacao-institucional/">Comissão Própria de Avaliação Institucional</a></li>
+		<li id="menu-item-8520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8520"><a href="https://ifrs.edu.br/sertao/institucional/comissoes/comissao-interna-de-saude-seguranca-e-prevencao-de-acidentes-cisspa/">Comissão Interna de Saúde, Segurança e Prevenção de Acidentes (CISSPA)</a></li>
+		<li id="menu-item-268" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-268"><a href="https://ifrs.edu.br/sertao/institucional/comissoes/comissao-permanente-de-pessoal-docente-cppd/">Comissão Permanente de Pessoal Docente &#8211; CPPD</a></li>
+	</ul>
+</li>
+	<li id="menu-item-825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-825"><a href="https://ifrs.edu.br/sertao/institucional/comunicacao/">Comunicação</a>
+	<ul class="sub-menu">
+		<li id="menu-item-829" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-829"><a href="https://ifrs.edu.br/sertao/institucional/comunicacao/canais-de-comunicacao/">Canais de comunicação</a></li>
+		<li id="menu-item-827" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-827"><a href="https://ifrs.edu.br/sertao/institucional/comunicacao/contato/">Contato</a></li>
+		<li id="menu-item-839" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-839"><a href="https://ifrs.edu.br/sertao/institucional/comunicacao/formaturas-e-eventos/">Formaturas e eventos</a></li>
+		<li id="menu-item-828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-828"><a href="https://ifrs.edu.br/sertao/institucional/comunicacao/guias-e-manuais/">Guias e Manuais</a></li>
+		<li id="menu-item-832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-832"><a href="https://ifrs.edu.br/sertao/institucional/comunicacao/materiais-para-download/">Materiais para download</a></li>
+		<li id="menu-item-841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-841"><a href="https://ifrs.edu.br/sertao/institucional/comunicacao/documentos/">Política de Comunicação</a></li>
+	</ul>
+</li>
+	<li id="menu-item-15" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-15"><a href="https://ifrs.edu.br/sertao/institucional/conselho-de-campus/">Conselho de Campus</a>
+	<ul class="sub-menu">
+		<li id="menu-item-250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-250"><a href="https://ifrs.edu.br/sertao/institucional/conselho-de-campus/atas/">Atas</a></li>
+		<li id="menu-item-22583" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22583"><a href="https://ifrs.edu.br/sertao/institucional/conselho-de-campus/conselheiros/">Conselheiros</a></li>
+		<li id="menu-item-253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-253"><a href="https://ifrs.edu.br/sertao/institucional/conselho-de-campus/normativas/">Normativas</a></li>
+		<li id="menu-item-255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-255"><a href="https://ifrs.edu.br/sertao/institucional/conselho-de-campus/regimentos/">Regimentos</a></li>
+	</ul>
+</li>
+	<li id="menu-item-10401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10401"><a href="https://ifrs.edu.br/sertao/institucional/eleicoes/">Eleições</a>
+	<ul class="sub-menu">
+		<li id="menu-item-8338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8338"><a href="https://ifrs.edu.br/sertao/institucional/eleicoes/eleicoes-diretor-geral-2019/">Eleições para diretor(a)-geral 2019</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-567" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-567"><a href="https://ifrs.edu.br/sertao/biblioteca/">Biblioteca</a>
+<ul class="sub-menu">
+	<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://ifrs.edu.br/sertao/biblioteca/a-biblioteca-mario-quintana/">Biblioteca Mário Quintana</a></li>
+	<li id="menu-item-33051" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33051"><a href="https://ifrs.edu.br/sertao/biblioteca/meu-pergamum/">Meu Pergamum</a></li>
+	<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35"><a href="https://ifrs.edu.br/sertao/biblioteca/acervo/">Acervo</a>
+	<ul class="sub-menu">
+		<li id="menu-item-16120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16120"><a href="https://ifrs.edu.br/sertao/biblioteca/acervo/o-campus-publica/">O Campus Publica</a></li>
+		<li id="menu-item-46" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://ifrs.edu.br/sertao/biblioteca/acervo/acesso-ao-pergamum/">Acesso ao Pergamum</a></li>
+		<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://ifrs.edu.br/sertao/biblioteca/acervo/informacoes-sobre-emprestimos/">Informações sobre Empréstimos</a></li>
+		<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://ifrs.edu.br/sertao/biblioteca/acervo/bibliotecas-virtuais/">Bibliotecas Virtuais</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1954" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1954"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/">Assistência Estudantil</a>
+<ul class="sub-menu">
+	<li id="menu-item-1706" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1706"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/equipe/">Equipe</a></li>
+	<li id="menu-item-9683" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-9683"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/residencia-e-semirresidencia-estudantil/">Residência e Semirresidência Estudantil</a>
+	<ul class="sub-menu">
+		<li id="menu-item-18818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18818"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/residencia-e-semirresidencia-estudantil/perguntas-e-respostas/">Perguntas e Respostas</a></li>
+		<li id="menu-item-10691" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10691"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/residencia-e-semirresidencia-estudantil/sobre-a-residencia-e-semirresidencia/">Sobre a residência e a semirresidência</a></li>
+		<li id="menu-item-10687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10687"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/residencia-e-semirresidencia-estudantil/editais-para-a-residencia-e-semirresidencia/">Editais para a residência e semirresidência</a></li>
+	</ul>
+</li>
+	<li id="menu-item-636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-636"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/restaurante/">Restaurante</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1943"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/restaurante/avisos/">Avisos</a></li>
+		<li id="menu-item-1862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1862"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/restaurante/cardapio/">Cardápio</a></li>
+		<li id="menu-item-1944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1944"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/restaurante/gru/">Sistema de Pagamentos (PagTesouro)</a></li>
+		<li id="menu-item-22891" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22891"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/restaurante/noticias/">Notícias</a></li>
+		<li id="menu-item-3307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3307"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/restaurante/regulamento/">Regulamento</a></li>
+		<li id="menu-item-1942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1942"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/restaurante/reserva/">Reserva</a></li>
+		<li id="menu-item-3306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3306"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/restaurante/valores/">Valores</a></li>
+	</ul>
+</li>
+	<li id="menu-item-6442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-6442"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/programa-de-beneficios/">Programa de Benefícios</a>
+	<ul class="sub-menu">
+		<li id="menu-item-33842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33842"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/programa-de-beneficios/sistema-de-assistencia-estudantil/">Sistema de Assistência Estudantil</a></li>
+		<li id="menu-item-6455" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6455"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/programa-de-beneficios/sobre-os-auxilios-estudantis/">Sobre os Auxílios Estudantis</a></li>
+		<li id="menu-item-6446" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6446"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/programa-de-beneficios/editais/">Editais Auxilio Estudantil</a></li>
+		<li id="menu-item-13255" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13255"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/programa-de-beneficios/solicitacoes-online/">Solicitações Online</a></li>
+		<li id="menu-item-6449" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6449"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/programa-de-beneficios/comunicados/">Comunicados</a></li>
+		<li id="menu-item-6452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6452"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/programa-de-beneficios/legislacao/">Legislação</a></li>
+		<li id="menu-item-6459" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6459"><a href="https://ifrs.edu.br/sertao/assistencia-estudantil/programa-de-beneficios/pagamentos/">Pagamentos</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-7170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7170"><a href="https://ifrs.edu.br/sertao/registros-academicos/">Registros Acadêmicos</a></li>
+<li id="menu-item-568" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor menu-item-has-children current-menu-ancestor current_page_ancestor menu-item-568"><a href="https://ifrs.edu.br/sertao/ensino/">Ensino</a>
+<ul class="sub-menu">
+	<li id="menu-item-13575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13575"><a href="https://ifrs.edu.br/sertao/ensino/bancas-de-defesa/">Bancas de Defesa</a></li>
+	<li id="menu-item-7160" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7160"><a href="https://ifrs.edu.br/sertao/ensino/cage/">Comissão de Avaliação e Gestão de Ensino</a></li>
+	<li id="menu-item-886" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-886"><a href="https://ifrs.edu.br/sertao/ensino/calendario-academico/">Calendário Acadêmico</a></li>
+	<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="https://ifrs.edu.br/sertao/ensino/diretoria-de-ensino/">Diretoria de Ensino &#8211; Equipe e atribuições</a></li>
+	<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="https://ifrs.edu.br/sertao/ensino/professores/">Docentes</a></li>
+	<li id="menu-item-1703" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1703"><a href="https://ifrs.edu.br/sertao/ensino/niepe/">Formação continuada</a></li>
+	<li id="menu-item-7182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7182"><a href="https://ifrs.edu.br/sertao/ensino/horarios-das-aulas-atendimento-aos-estudantes/">Horários das aulas/Atendimento aos estudantes</a></li>
+	<li id="menu-item-1697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1697"><a href="https://ifrs.edu.br/sertao/ensino/legislacao-e-normas/">Normas e Legislação (Ensino)</a></li>
+	<li id="menu-item-1705" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1705"><a href="https://ifrs.edu.br/sertao/ensino/orientacoes-gerais-da-de/">Orientações Gerais/Formulários</a></li>
+	<li id="menu-item-7201" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7201"><a href="https://ifrs.edu.br/sertao/ensino/palestras/">Palestras</a></li>
+	<li id="menu-item-7204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7204"><a href="https://ifrs.edu.br/sertao/ensino/projetos-de-ensino-2/">Projetos de Ensino</a></li>
+	<li id="menu-item-34991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34991"><a href="https://ifrs.edu.br/sertao/ensino/setor-de-esporte-e-lazer/">Setor de Esporte e Lazer</a></li>
+	<li id="menu-item-7218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7218"><a href="https://ifrs.edu.br/sertao/ensino/visitas-tecnicas/">Visitas Técnicas</a></li>
+	<li id="menu-item-32505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-32505"><a href="https://ifrs.edu.br/sertao/ensino/nucleo-de-educacao-a-distancia/">Núcleo de Educação a Distância</a>
+	<ul class="sub-menu">
+		<li id="menu-item-1704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1704"><a href="https://ifrs.edu.br/sertao/ensino/nucleo-de-educacao-a-distancia/nead-2/">NEaD</a></li>
+		<li id="menu-item-32510" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32510"><a href="https://ifrs.edu.br/sertao/ensino/nucleo-de-educacao-a-distancia/cursos-online-abertos/">Cursos Online Abertos</a></li>
+		<li id="menu-item-32512" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32512"><a href="https://ifrs.edu.br/sertao/ensino/nucleo-de-educacao-a-distancia/planos-de-acao/">Planos de Ação</a></li>
+		<li id="menu-item-32513" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32513"><a href="https://ifrs.edu.br/sertao/ensino/nucleo-de-educacao-a-distancia/fluxos-de-processos/">Fluxos de Processos</a></li>
+		<li id="menu-item-32511" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32511"><a href="https://ifrs.edu.br/sertao/ensino/nucleo-de-educacao-a-distancia/manuais-tutoriais/">Manuais / Tutoriais</a></li>
+	</ul>
+</li>
+	<li id="menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-342"><a href="https://ifrs.edu.br/sertao/ensino/cursos-tecnicos/">Cursos Técnicos</a>
+	<ul class="sub-menu">
+		<li id="menu-item-30170" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30170"><a href="https://ifrs.edu.br/sertao/ensino/cursos-tecnicos/tecnico-em-administracao-eja-ept/">Técnico em Administração &#8211; modalidade EJA EPT</a></li>
+		<li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348"><a href="https://ifrs.edu.br/sertao/ensino/cursos-tecnicos/tecnico-em-comercio-modalidade-proeja/">Técnico em Comércio – modalidade PROEJA (sem ingresso de alunos a partir de 2024/01)</a></li>
+		<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350"><a href="https://ifrs.edu.br/sertao/ensino/cursos-tecnicos/tecnico-em-agropecuaria-integrado-ao-ensino-medio/">Técnico em Agropecuária &#8211; integrado ao Ensino Médio</a></li>
+		<li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-352"><a href="https://ifrs.edu.br/sertao/ensino/cursos-tecnicos/tecnico-em-agropecuaria-subsequente-ao-ensino-medio/">Técnico em Agropecuária &#8211; subsequente ao Ensino Médio</a></li>
+		<li id="menu-item-354" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354"><a href="https://ifrs.edu.br/sertao/ensino/cursos-tecnicos/tecnico-em-manutencao-e-suporte-em-informatica-integrado-ao-ensino-medio/">Técnico em Manutenção e Suporte em Informática &#8211; integrado ao Ensino Médio</a></li>
+	</ul>
+</li>
+	<li id="menu-item-344" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-parent current-page-parent current_page_parent menu-item-has-children current-menu-ancestor current_page_ancestor current-menu-parent current_page_parent menu-item-344"><a href="https://ifrs.edu.br/sertao/ensino/cursos-superiores/">Cursos Superiores</a>
+	<ul class="sub-menu">
+		<li id="menu-item-358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-358"><a href="https://ifrs.edu.br/sertao/ensino/cursos-superiores/bacharelado-em-agronomia/">Bacharelado em Agronomia</a></li>
+		<li id="menu-item-360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-360"><a href="https://ifrs.edu.br/sertao/ensino/cursos-superiores/bacharelado-em-zootecnia/">Bacharelado em Zootecnia</a></li>
+		<li id="menu-item-362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-362"><a href="https://ifrs.edu.br/sertao/ensino/cursos-superiores/licenciatura-em-ciencias-agricolas/">Licenciatura em Ciências Agrícolas (em encerramento)</a></li>
+		<li id="menu-item-364" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-364 current_page_item menu-item-364"><a href="https://ifrs.edu.br/sertao/ensino/cursos-superiores/licenciatura-em-ciencias-biologicas/" aria-current="page">Licenciatura em Ciências Biológicas</a></li>
+		<li id="menu-item-366" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-366"><a href="https://ifrs.edu.br/sertao/ensino/cursos-superiores/tecnologia-em-agronegocio/">Tecnologia em Gestão do Agronegócio</a></li>
+		<li id="menu-item-368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-368"><a href="https://ifrs.edu.br/sertao/ensino/cursos-superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas/">Tecnologia em Análise e Desenvolvimento de Sistemas</a></li>
+		<li id="menu-item-370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-370"><a href="https://ifrs.edu.br/sertao/ensino/cursos-superiores/tecnologia-em-gestao-ambiental/">Tecnologia em Gestão Ambiental</a></li>
+	</ul>
+</li>
+	<li id="menu-item-32532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-32532"><a href="https://ifrs.edu.br/sertao/ensino/curso-formacao-pedagogica-para-graduados-nao-licenciados/">Curso Formação Pedagógica para Graduados não Licenciados</a>
+	<ul class="sub-menu">
+		<li id="menu-item-25068" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25068"><a href="https://ifrs.edu.br/sertao/ensino/curso-formacao-pedagogica-para-graduados-nao-licenciados/formacao-pedagogica-para-graduados-nao-licenciados-novo/">Curso Formação Pedagógica para Graduados não Licenciados (2022/Em encerramento)</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-569" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-569"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/">Pesquisa, Pós-graduação e Inovação</a>
+<ul class="sub-menu">
+	<li id="menu-item-33096" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33096"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/formularios-e-documentos/">Formulários e documentos</a></li>
+	<li id="menu-item-1490" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1490"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/instrucoes-normativas-e-resolucoes/">Pesquisa e Inovação</a></li>
+	<li id="menu-item-1515" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1515"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/editais/">Oportunidades</a></li>
+	<li id="menu-item-2106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2106"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/bolsas/">Projetos de Pesquisa</a></li>
+	<li id="menu-item-1523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1523"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/comissao-de-avaliacao-e-gestao-de-projetos-de-pesquisa-e-inovacao/">CAGPPI</a></li>
+	<li id="menu-item-1529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1529"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/cep/">CEP</a></li>
+	<li id="menu-item-765" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-765"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/comissao-de-etica-no-uso-de-animais/">CEUA</a></li>
+	<li id="menu-item-21872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21872"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/habitats-de-inovacao/">Habitats de Inovação</a></li>
+	<li id="menu-item-24995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24995"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/ifrs-integration-up/">IFRS Integration Up</a></li>
+	<li id="menu-item-1507" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1507"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/pos-graduacao/">Pós-graduação</a>
+	<ul class="sub-menu">
+		<li id="menu-item-18859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18859"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/pos-graduacao/secretaria-de-pos-graduacao/">Secretaria de Pós-graduação</a></li>
+		<li id="menu-item-9971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9971"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/pos-graduacao/desenvolvimento-e-inovacao/">Lato Sensu – Especialização em Desenvolvimento e Inovação</a></li>
+		<li id="menu-item-25756" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25756"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/pos-graduacao/lato-sensu-especializacao-em-docencia-da-educacao-profissional-e-tecnologica/">Lato Sensu – Especialização em Docência da Educação Profissional e Tecnológica</a></li>
+		<li id="menu-item-25754" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25754"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/pos-graduacao/lato-sensu-especializacao-em-sistemas-de-producao-vegetal/">Lato Sensu &#8211; Especialização em Sistemas de Produção Vegetal</a></li>
+		<li id="menu-item-1509" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1509"><a href="https://ifrs.edu.br/sertao/pesquisa-pos-graduacao-e-inovacao/pos-graduacao/lato-sensu/">Lato Sensu – Especialização em Teorias e Metodologias da Educação</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-570" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-570"><a href="https://ifrs.edu.br/sertao/extensao/">Extensão</a>
+<ul class="sub-menu">
+	<li id="menu-item-86" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-86"><a href="https://ifrs.edu.br/sertao/extensao/diretoria-de-extensao/">Equipe, Horários e Links</a></li>
+	<li id="menu-item-18937" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-18937"><a href="https://ifrs.edu.br/sertao/extensao/nucleo-de-memoria-numem-e-memorial-do-campus/">Núcleo de Memória (NuMem) e Memorial do Campus</a>
+	<ul class="sub-menu">
+		<li id="menu-item-18940" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18940"><a href="https://ifrs.edu.br/sertao/extensao/nucleo-de-memoria-numem-e-memorial-do-campus/comissao/">Comissão</a></li>
+		<li id="menu-item-18944" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18944"><a href="https://ifrs.edu.br/sertao/extensao/nucleo-de-memoria-numem-e-memorial-do-campus/contatos/">Contatos</a></li>
+		<li id="menu-item-18951" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18951"><a href="https://ifrs.edu.br/sertao/extensao/nucleo-de-memoria-numem-e-memorial-do-campus/documentos/">Documentos</a></li>
+		<li id="menu-item-18963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18963"><a href="https://ifrs.edu.br/sertao/extensao/nucleo-de-memoria-numem-e-memorial-do-campus/eventos-e-acoes/">Eventos e Ações</a></li>
+		<li id="menu-item-19018" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19018"><a href="https://ifrs.edu.br/sertao/extensao/nucleo-de-memoria-numem-e-memorial-do-campus/memorial/">Memorial</a></li>
+		<li id="menu-item-18995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18995"><a href="https://ifrs.edu.br/sertao/extensao/nucleo-de-memoria-numem-e-memorial-do-campus/numem-nucleo-de-memoria/">NuMem Reitoria</a></li>
+		<li id="menu-item-18953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18953"><a href="https://ifrs.edu.br/sertao/extensao/nucleo-de-memoria-numem-e-memorial-do-campus/projetos-em-execucao/">Projetos em execução</a></li>
+		<li id="menu-item-18955" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18955"><a href="https://ifrs.edu.br/sertao/extensao/nucleo-de-memoria-numem-e-memorial-do-campus/projetos-encerrados/">Projetos encerrados</a></li>
+	</ul>
+</li>
+	<li id="menu-item-770" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-770"><a href="https://ifrs.edu.br/sertao/extensao/cgae/">Comissão de Avaliação e Gerenciamento de Ações de Extensão &#8211; CGAE</a></li>
+	<li id="menu-item-93" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-93"><a href="https://ifrs.edu.br/sertao/extensao/cooperacao/">Documentos e Normas de Extensão</a></li>
+	<li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-89"><a href="https://ifrs.edu.br/sertao/extensao/acoes-de-extensao/">Editais de Extensão</a></li>
+	<li id="menu-item-95" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-95"><a href="https://ifrs.edu.br/sertao/extensao/projetos-de-extensao/">Curricularização da Extensão &amp; Ações de Extensão</a></li>
+	<li id="menu-item-8602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8602"><a href="https://ifrs.edu.br/sertao/extensao/prestacao-institucional-de-servicos/">Prestação Institucional de Serviços</a></li>
+	<li id="menu-item-7036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7036"><a href="https://ifrs.edu.br/sertao/extensao/emissao-de-certificados/">Emissão de Certificados</a></li>
+	<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="https://ifrs.edu.br/sertao/extensao/estagios/">Estágios &#8211; informações e documentos</a></li>
+	<li id="menu-item-8603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8603"><a href="https://ifrs.edu.br/sertao/extensao/convenios-de-estagio/">Convênios de estágio</a></li>
+	<li id="menu-item-774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774"><a href="https://ifrs.edu.br/sertao/extensao/oportunidades-de-estagio-e-emprego/">Oportunidades de estágio e emprego</a></li>
+</ul>
+</li>
+<li id="menu-item-10352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10352"><a href="https://ifrs.edu.br/sertao/departamento-de-producao-agropecuaria/">Departamento de Produção Agropecuária</a></li>
+<li id="menu-item-572" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-572"><a href="https://ifrs.edu.br/sertao/desenvolvimento-institucional/">Desenvolvimento Institucional</a>
+<ul class="sub-menu">
+	<li id="menu-item-117" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-117"><a href="https://ifrs.edu.br/sertao/desenvolvimento-institucional/diretoria-de-desenvolvimento-institucional/">Diretoria de Desenvolvimento Institucional</a></li>
+	<li id="menu-item-30559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30559"><a href="https://ifrs.edu.br/sertao/desenvolvimento-institucional/laboratorios-informacoesgerais/">Laboratórios &#8211; Informações Gerais</a></li>
+	<li id="menu-item-8635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8635"><a href="https://ifrs.edu.br/sertao/desenvolvimento-institucional/colegiado-de-laboratorios/">Laboratórios &#8211; Documentos</a></li>
+	<li id="menu-item-31215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31215"><a href="https://ifrs.edu.br/sertao/desenvolvimento-institucional/informacoes-sobre-formaturas/">Informações sobre FORMATURAS</a></li>
+	<li id="menu-item-119" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-119"><a href="https://ifrs.edu.br/sertao/desenvolvimento-institucional/planos-de-acao/">Planos de Ação</a></li>
+	<li id="menu-item-30822" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30822"><a href="https://ifrs.edu.br/sertao/desenvolvimento-institucional/localizacao-dentro-do-ifrs-campus-sertao/">Localização dentro do IFRS Campus Sertão</a></li>
+</ul>
+</li>
+<li id="menu-item-32390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-32390"><a href="https://ifrs.edu.br/sertao/cti/">Tecnologia da Informação</a>
+<ul class="sub-menu">
+	<li id="menu-item-32421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32421"><a href="https://ifrs.edu.br/sertao/cti/coordenadoria-de-tecnologia-da-informacao/">Coordenadoria de Tecnologia da Informação</a></li>
+	<li id="menu-item-32406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32406"><a href="https://ifrs.edu.br/sertao/cti/servicos/">Catalogo de Serviços</a></li>
+	<li id="menu-item-1082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1082"><a href="https://ifrs.edu.br/sertao/cti/manuais/">Manuais e Documentos</a></li>
+	<li id="menu-item-35580" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35580"><a href="https://ifrs.edu.br/sertao/cti/seguranca-da-informacao/">Segurança da Informação</a>
+	<ul class="sub-menu">
+		<li id="menu-item-35582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35582"><a href="https://ifrs.edu.br/sertao/cti/seguranca-da-informacao/cartilha-de-seguranca-em-tic/">Cartilha de segurança</a></li>
+	</ul>
+</li>
+	<li id="menu-item-33823" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-33823"><a href="https://ifrs.edu.br/sertao/cti/guias/">Guias/Tutoriais</a>
+	<ul class="sub-menu">
+		<li id="menu-item-36251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36251"><a href="https://ifrs.edu.br/sertao/cti/guias/orientacoes-para-acessar-o-e-mail-institucional-e-o-moodle/">Orientações para acessar o e-mail institucional e o Moodle (alunos)</a></li>
+		<li id="menu-item-32586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32586"><a href="https://ifrs.edu.br/sertao/cti/guias/wifi/">Guia de Acesso ao WIFI do campus</a></li>
+		<li id="menu-item-29240" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29240"><a href="https://ifrs.edu.br/sertao/cti/guias/chamados/">Guia de Abetura de Chamados</a></li>
+		<li id="menu-item-33828" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33828"><a href="https://ifrs.edu.br/sertao/cti/guias/guia-de-instalacao-das-impressoras-em-notebooks-particulares/">Guia de Instalação das Impressoras em Notebooks Particulares</a></li>
+	</ul>
+</li>
+	<li id="menu-item-38470" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-38470"><a href="https://ifrs.edu.br/sertao/cti/sistemas/">Sistemas</a>
+	<ul class="sub-menu">
+		<li id="menu-item-38472" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38472"><a href="https://ifrs.edu.br/sertao/cti/sistemas/permissoes-sipac/">Permissões SIPAC</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-571"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/">Administração e Planejamento</a>
+<ul class="sub-menu">
+	<li id="menu-item-29654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29654"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/almoxarifado/">Almoxarifado</a></li>
+	<li id="menu-item-19742" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-19742"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/contabilidade/">Contabilidade</a>
+	<ul class="sub-menu">
+		<li id="menu-item-19744" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19744"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/contabilidade/demonstracoes-contabeis/">Demonstrações Contábeis</a></li>
+		<li id="menu-item-19746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19746"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/contabilidade/notas-explicativas/">Notas Explicativas</a></li>
+		<li id="menu-item-899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/contabilidade/relatorios-de-despesa/">Relatórios de despesa</a></li>
+	</ul>
+</li>
+	<li id="menu-item-8872" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8872"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/contratos/">Contratos</a></li>
+	<li id="menu-item-23720" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-23720"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/infraestrutura/">Infraestrutura</a>
+	<ul class="sub-menu">
+		<li id="menu-item-29657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29657"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/infraestrutura/equipe-e-horarios/">Contato</a></li>
+		<li id="menu-item-23722" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23722"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/infraestrutura/pousada/">Pousada</a></li>
+	</ul>
+</li>
+	<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-101"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/">Licitações</a>
+	<ul class="sub-menu">
+		<li id="menu-item-781" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-781"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/chamadas-publicas/">Chamadas públicas</a></li>
+		<li id="menu-item-37421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37421"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/publicizacao-das-compras-e-contratacoes/">Publicização das compras e contratações</a></li>
+		<li id="menu-item-37419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37419"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/equipe-e-horarios/">Equipe e horários</a></li>
+		<li id="menu-item-29942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29942"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/inexigibilidade/">Inexigibilidade</a></li>
+		<li id="menu-item-783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/concorrencias/">Concorrências</a></li>
+		<li id="menu-item-785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-785"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/cotacao-eletronica/">Cotações Eletrônicas</a></li>
+		<li id="menu-item-25985" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25985"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/dispensas/">Dispensas</a></li>
+		<li id="menu-item-788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-788"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/leiloes/">Leilões</a></li>
+		<li id="menu-item-11392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11392"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/planejamento-de-aquisicoes-e-contratacoes/">Planejamento de Aquisições e Contratações</a></li>
+		<li id="menu-item-778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-778"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/pregoes/">Pregões</a></li>
+		<li id="menu-item-790" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-790"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/pregoes-eletronicos-compartilhados/">Pregões eletrônicos compartilhados</a></li>
+		<li id="menu-item-792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-792"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/rdc/">Regime Diferenciado de Contratação (RDC)</a></li>
+		<li id="menu-item-807" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-807"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/licitacoes-e-contratos/tomadas-de-precos/">Tomadas de preços</a></li>
+	</ul>
+</li>
+	<li id="menu-item-30143" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30143"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/patrimonio/">Patrimônio</a></li>
+	<li id="menu-item-27568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27568"><a href="https://ifrs.edu.br/sertao/administracao-e-planejamento/sistema-de-pagamentos/">Sistema de Pagamentos (PagTesouro)</a></li>
+</ul>
+</li>
+<li id="menu-item-8174" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8174"><a href="https://ifrs.edu.br/sertao/gestao-de-pessoas/">Gestão de Pessoas</a></li>
+<li id="menu-item-573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-573"><a href="https://ifrs.edu.br/sertao/no-campus/">No Campus</a>
+<ul class="sub-menu">
+	<li id="menu-item-17401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17401"><a href="https://ifrs.edu.br/sertao/no-campus/tourifrs/">TourIFRS</a></li>
+	<li id="menu-item-7254" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7254"><a href="https://ifrs.edu.br/sertao/no-campus/cursos-tecnicos/">Cursos Técnicos</a>
+	<ul class="sub-menu">
+		<li id="menu-item-30169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30169"><a href="https://ifrs.edu.br/sertao/no-campus/cursos-tecnicos/tecnico-em-administracao-eja-ept/">Técnico em Administração EJA EPT</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7257"><a href="https://ifrs.edu.br/sertao/no-campus/cursos-superiores/">Cursos Superiores</a></li>
+	<li id="menu-item-7259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7259"><a href="https://ifrs.edu.br/sertao/no-campus/cursos-de-pos-graduacao/">Cursos de Pós-graduação</a></li>
+	<li id="menu-item-5687" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5687"><a href="https://ifrs.edu.br/sertao/no-campus/fotos/">Fotos</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6469"><a href="https://ifrs.edu.br/sertao/no-campus/fotos/ifrs-campus-sertao/">IFRS &#8211; Campus Sertão</a></li>
+		<li id="menu-item-28406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28406"><a href="https://ifrs.edu.br/sertao/no-campus/fotos/xv-encontro-de-ex-alunos-e-ex-servidores/">XV Encontro de Ex-Alunos e Ex-Servidores &#8211; 2023</a></li>
+		<li id="menu-item-10239" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10239"><a href="https://ifrs.edu.br/sertao/no-campus/fotos/fotos-aereas/">Fotos aéreas</a></li>
+		<li id="menu-item-6595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6595"><a href="https://ifrs.edu.br/sertao/no-campus/fotos/xiv-encontro-2019/">XIV Encontro &#8211; 2019</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-1029" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1029"><a href="https://ifrs.edu.br/sertao/sistemas/">Sistemas</a></li>
+<li id="menu-item-36024" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36024"><a href="https://ifrs.edu.br/sertao/projetos/">Projetos</a></li>
+</ul></nav>
+                <a href="#fim-menu" id="fim-menu" class="sr-only">Fim da navega&ccedil;&atilde;o</a>
+            </div>
+            <main role="main" class="col-12 col-lg-10">
+                <!-- Conteúdo -->
+                <a href="#inicio-conteudo" id="inicio-conteudo" class="sr-only">In&iacute;cio do conte&uacute;do</a>
+
+
+<article class="page">
+    <h2 class="page__title">Licenciatura em Ciências Biológicas</h2>
+        <hr class="page__separator">
+    <div class="page__content">
+        
+<img width="1427" height="482" class="lazyload page__thumb wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="" sizes="(max-width: 1427px) 100vw, 1427px" data-sizes="auto" data-src="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2019/08/Ci&ecirc;ncias-Biol&oacute;gicas.jpg" data-srcset="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2019/08/Ci&ecirc;ncias-Biol&oacute;gicas.jpg 1427w, https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2019/08/Ci&ecirc;ncias-Biol&oacute;gicas-768x259.jpg 768w" loading="lazy">
+        
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><b>Perfil profissional:&nbsp;&nbsp;</b>O licenciado em Ci&ecirc;ncias Biol&oacute;gicas estar&aacute; apto a atuar profissionalmente como docente no Ensino B&aacute;sico, especificamente no Ensino Fundamental II e Ensino M&eacute;dio, desempenhando as seguintes fun&ccedil;&otilde;es: doc&ecirc;ncia em ensino de Ci&ecirc;ncias; doc&ecirc;ncia em ensino de Biologia; elabora&ccedil;&atilde;o e condu&ccedil;&atilde;o de atividades de divulga&ccedil;&atilde;o das Ci&ecirc;ncias e da Biologia.</p>
+<p><b>Dura&ccedil;&atilde;o: </b>4 anos</p>
+<p><b>Turno: </b>manh&atilde;</p>
+<p><strong>Periodicidade de oferta: </strong>anual</p>
+<p><b>Requisito:&nbsp;</b>Est&atilde;o habilitados a ingressar no curso estudantes que tenham conclu&iacute;do o ensino m&eacute;dio.</p>
+<p><b>Coordena&ccedil;&atilde;o:</b> Prof&ordf;.&nbsp; Jeonice Werle Techio <strong>E-mail:</strong> biologia.coordenacao@sertao.ifrs.edu.br&nbsp; <strong>Tel:</strong> (54) 3345 8061 ou (54) 3345 8066</p>
+<p><strong>Conceito MEC:</strong> <a href="https://ifrs.edu.br/sertao/licenciatura-em-ciencias-biologicas-e-nota-5-na-avaliacao-do-mec/">5 (nota m&aacute;xima)</a></p>
+<p><strong>Documentos:</strong></p>
+<ul style="list-style-type: circle">
+<li><a href="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2025/05/Plano-de-acao-Coordenacao-do-curso-de-LCBio-2024-2025.pdf">Plano de a&ccedil;&atilde;o da coordena&ccedil;&atilde;o do curso 2024-2025</a></li>
+<li><a href="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2022/07/Portaria-de-Reconhecimento-no-26-de-13-de-janeiro-de-2021-1-1.pdf">Portaria de Reconhecimento n&ordm; 26, de 13 de janeiro de 2021</a></li>
+<li><a href="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2018/07/Projeto-Pedag%C3%B3gico-do-Curso-de-Licenciatura-em-Ci%C3%AAncias-Biol%C3%B3gicas-2017.pdf">Projeto Pedag&oacute;gico do Curso de Licenciatura em Ci&ecirc;ncias Biol&oacute;gicas (2017)</a></li>
+<li><a href="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2018/07/Matriz-curricular-do-Curso-de-Licenciatura-em-Ci%C3%AAncias-Biol%C3%B3gicas-2018.pdf">Matriz Curricular do Curso de Licenciatura em Ci&ecirc;ncias Biol&oacute;gicas (2018 &ndash; SIGAA)</a></li>
+<li><a href="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2022/08/Plano-de-acao-Coordenacao-do-curso-de-LCBio-2022-2023.pdf">Plano de a&ccedil;&atilde;o da Coordena&ccedil;&atilde;o do curso de LCBio 2022-2023</a></li>
+<li><a href="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2019/11/ANEXOS-TCC-I-Projeto.doc">Anexos Edit&aacute;veis &ndash; Trabalho de Conclus&atilde;o de Curso I</a></li>
+<li><a href="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2019/11/Anexo-2-TCC-II-Monografia-Artigo.doc">Anexos Edit&aacute;veis &ndash; Trabalho de Conclus&atilde;o de Curso II</a></li>
+<li><a href="https://ifrs.edu.br/sertao/extensao/estagios/">Est&aacute;gios</a></li>
+</ul>
+<p><strong>Resolu&ccedil;&otilde;es do curso:</strong></p>
+<p><a href="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2022/07/1-Resolucao-no-079-de-22-de-setembro-de-2015-Ato-constitutivo.pdf">1 &ndash; Resolu&ccedil;&atilde;o IFRS Consup&nbsp; n&ordm; 079/2015 &ndash; Ato constitutivo</a></p>
+<p><a href="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2022/07/2-Resolucao_083_2017_-PPC_Ciencias_Biologicas_alteracoes-no-PPC.pdf">2 &ndash; Resolucao IFRS Consup n&ordm;083/2017 &ndash; Aprova altera&ccedil;&otilde;es no Projeto Pedag&oacute;gico do Curso</a></p>
+<p><a href="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2022/07/3-Resolucao-no-006-de-27-de-fevereiro-de-2018-Matriz-vigente.pdf">3 &ndash; Resolu&ccedil;&atilde;o IFRS Conspu n&ordm; 006/2018 &ndash; Aprova altera&ccedil;&otilde;es na matriz curricular (matriz vigente)</a></p>
+<p><strong>Marca do curso: </strong><a class="btn btn-secondary" href="https://ifrs.edu.br/wp-content/uploads/2019/06/Licenciatura-em-Ciencias-Biologicas.zip">Licenciatura em Ci&ecirc;ncias Biol&oacute;gicas</a></p>
+<h4></h4>
+<p><strong>Centro Acad&ecirc;mico:&nbsp;&nbsp;</strong><a href="https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2019/03/Estatuto-do-Centro-Acad%C3%AAmico-da-Biologia-de-Sert%C3%A3o-CABS.pdf">Estatuto do Centro Acad&ecirc;mico da Biologia de Sert&atilde;o &ndash; CABS</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+
+    <ul class="crunchify-social">
+        <li class="crunchify-social__item crunchify-social__item--first"><span class="sr-only">Compartilhar conte&uacute;do:</span></li>
+        <li class="crunchify-social__item">
+            <a class="btn crunchify-social__link crunchify-social__link_facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fifrs.edu.br%2Fsertao%2Fensino%2Fcursos-superiores%2Flicenciatura-em-ciencias-biologicas%2F" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Compartilhe no Facebook">
+                <svg aria-hidden="true" role="img" width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M22.676 0H1.324C.593 0 0 .593 0 1.324v21.352C0 23.408.593 24 1.324 24h11.494v-9.294H9.689v-3.621h3.129V8.41c0-3.099 1.894-4.785 4.659-4.785 1.325 0 2.464.097 2.796.141v3.24h-1.921c-1.5 0-1.792.721-1.792 1.771v2.311h3.584l-.465 3.63H16.56V24h6.115c.733 0 1.325-.592 1.325-1.324V1.324C24 .593 23.408 0 22.676 0"/></svg>
+                <span class="sr-only">Facebook</span>
+            </a>
+        </li>
+        <li class="crunchify-social__item">
+            <a class="btn crunchify-social__link crunchify-social__link_twitter" href="https://twitter.com/intent/tweet?text=Licenciatura%20em%20Ciências%20Biológicas&amp;url=https%3A%2F%2Fifrs.edu.br%2Fsertao%2Fensino%2Fcursos-superiores%2Flicenciatura-em-ciencias-biologicas%2F" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Compartilhe no Twitter">
+                <svg aria-hidden="true" role="img" width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M23.954 4.569c-.885.389-1.83.654-2.825.775 1.014-.611 1.794-1.574 2.163-2.723-.951.555-2.005.959-3.127 1.184-.896-.959-2.173-1.559-3.591-1.559-2.717 0-4.92 2.203-4.92 4.917 0 .39.045.765.127 1.124C7.691 8.094 4.066 6.13 1.64 3.161c-.427.722-.666 1.561-.666 2.475 0 1.71.87 3.213 2.188 4.096-.807-.026-1.566-.248-2.228-.616v.061c0 2.385 1.693 4.374 3.946 4.827-.413.111-.849.171-1.296.171-.314 0-.615-.03-.916-.086.631 1.953 2.445 3.377 4.604 3.417-1.68 1.319-3.809 2.105-6.102 2.105-.39 0-.779-.023-1.17-.067 2.189 1.394 4.768 2.209 7.557 2.209 9.054 0 13.999-7.496 13.999-13.986 0-.209 0-.42-.015-.63.961-.689 1.8-1.56 2.46-2.548l-.047-.02z"/></svg>
+                <span class="sr-only">Twitter</span>
+            </a>
+        </li>
+        <li class="crunchify-social__item">
+            <a class="btn crunchify-social__link crunchify-social__link_linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fifrs.edu.br%2Fsertao%2Fensino%2Fcursos-superiores%2Flicenciatura-em-ciencias-biologicas%2F&amp;title=Licenciatura%20em%20Ciências%20Biológicas" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Compartilhe no Linkedin">
+                <svg aria-hidden="true" role="img" width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+                <span class="sr-only">LinkedIn</span>
+            </a>
+        </li>
+        <li class="crunchify-social__item">
+            <a class="btn crunchify-social__link crunchify-social__link_pinterest" href="https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fifrs.edu.br%2Fsertao%2Fensino%2Fcursos-superiores%2Flicenciatura-em-ciencias-biologicas%2F&amp;media=https://ifrs.edu.br/sertao/wp-content/uploads/sites/7/2019/08/Ciências-Biológicas.jpg&amp;description=Licenciatura%20em%20Ciências%20Biológicas" data-pin-custom="true" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Compartilhe no Pinterest">
+                <svg aria-hidden="true" role="img" width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.162-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.889 2.741.099.12.112.225.085.345-.09.375-.293 1.199-.334 1.363-.053.225-.172.271-.401.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.354-.629-2.758-1.379l-.749 2.848c-.269 1.045-1.004 2.352-1.498 3.146 1.123.345 2.306.535 3.55.535 6.607 0 11.985-5.365 11.985-11.987C23.97 5.39 18.592.026 11.985.026L12.017 0z"/></svg>
+                <span class="sr-only">Pinterest</span>
+            </a>
+        </li>
+        <li class="crunchify-social__item">
+            <a class="btn crunchify-social__link crunchify-social__link_whatsapp" href="whatsapp://send?text=Licenciatura%20em%20Ciências%20Biológicas https%3A%2F%2Fifrs.edu.br%2Fsertao%2Fensino%2Fcursos-superiores%2Flicenciatura-em-ciencias-biologicas%2F" target="_blank" data-toggle="tooltip" data-placement="bottom" title="Compartilhe no WhatsApp">
+                <svg aria-hidden="true" role="img" width="16" height="16" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M17.498 14.382c-.301-.15-1.767-.867-2.04-.966-.273-.101-.473-.15-.673.15-.197.295-.771.964-.944 1.162-.175.195-.349.21-.646.075-.3-.15-1.263-.465-2.403-1.485-.888-.795-1.484-1.77-1.66-2.07-.174-.3-.019-.465.13-.615.136-.135.301-.345.451-.523.146-.181.194-.301.297-.496.1-.21.049-.375-.025-.524-.075-.15-.672-1.62-.922-2.206-.24-.584-.487-.51-.672-.51-.172-.015-.371-.015-.571-.015-.2 0-.523.074-.797.359-.273.3-1.045 1.02-1.045 2.475s1.07 2.865 1.219 3.075c.149.195 2.105 3.195 5.1 4.485.714.3 1.27.48 1.704.629.714.227 1.365.195 1.88.121.574-.091 1.767-.721 2.016-1.426.255-.705.255-1.29.18-1.425-.074-.135-.27-.21-.57-.345m-5.446 7.443h-.016c-1.77 0-3.524-.48-5.055-1.38l-.36-.214-3.75.975 1.005-3.645-.239-.375c-.99-1.576-1.516-3.391-1.516-5.26 0-5.445 4.455-9.885 9.942-9.885 2.654 0 5.145 1.035 7.021 2.91 1.875 1.859 2.909 4.35 2.909 6.99-.004 5.444-4.46 9.885-9.935 9.885M20.52 3.449C18.24 1.245 15.24 0 12.045 0 5.463 0 .104 5.334.101 11.893c0 2.096.549 4.14 1.595 5.945L0 24l6.335-1.652c1.746.943 3.71 1.444 5.71 1.447h.006c6.585 0 11.946-5.336 11.949-11.896 0-3.176-1.24-6.165-3.495-8.411"/></svg>
+                <span class="sr-only">WhatsApp</span>
+            </a>
+        </li>
+    </ul>
+    </div>
+    <p class="page__meta">Última atualização em 12/05/2025</p>
+</article>
+
+                <a href="#fim-conteudo" id="fim-conteudo" class="sr-only">Fim do conte&uacute;do</a>
+            </main>
+        </div> <!-- /div.row -->
+    </section> <!-- /section.container -->
+
+    <!-- Rodapé -->
+    <a href="#inicio-rodape" id="inicio-rodape" class="sr-only">In&iacute;cio do rodap&eacute;</a>
+    <footer class="footer">
+        <div class="container">
+            <div class="row footer__info">
+                <div class="col-12 col-md-6 col-lg-6 area-rodape">
+                    
+<div id="text-2" class="area-rodape__widget widget_text">			<div class="textwidget"><p><strong>Instituto Federal de Educa&ccedil;&atilde;o, Ci&ecirc;ncia e Tecnologia do Rio Grande do Sul &ndash; Campus Sert&atilde;o</strong></p>
+<p>Rodovia RS 135, Km 32,5 | Distrito Eng. Luiz Englert<br>
+CEP: 99170-000 | Sert&atilde;o &ndash; RS<br>
+Caixa Postal 21</p>
+<p>Telefone: (54) 3345-8000</p>
+<p><a href="https://ifrs.edu.br/sertao/contato/">Outros Contatos</a></p>
+<p>&nbsp;</p>
+</div>
+		</div>
+                </div>
+                <div class="col-12 col-md-3 col-lg-3">
+                                    </div>
+                <div class="col-12 col-md-3 col-lg-3">
+                    <a href="https://www.gov.br/acessoainformacao" target="_blank" class="footer__lai d-block px-sm-5 px-md-0" rel="noopener" data-toggle="tooltip" data-placement="top" title="Site sobre a Lei de Acesso &agrave; Informa&ccedil;&atilde;o">
+                        <img data-src="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/img/acesso-info.svg" alt="Site sobre a Lei de Acesso &agrave; Informa&ccedil;&atilde;o (abre uma nova p&aacute;gina)" class="lazyload img-fluid mx-auto" width="544" height="228"/>
+                    </a>
+                    <div class="creditos">
+                        <!-- Wordpress -->
+                        <a href="https://br.wordpress.org/" target="_blank" rel="noopener" data-toggle="tooltip" data-placement="top" title="Desenvolvido com Wordpress">
+                            <img data-src="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/img/creditos-wordpress.png" alt="Desenvolvido com Wordpress (abre uma nova p&aacute;gina)" class="lazyload" width="98" height="20"/>
+                        </a>
+                        <!-- Código-fonte -->
+                        <a href="https://github.com/IFRS/portal-theme/" target="_blank" rel="noopener" data-toggle="tooltip" data-placement="top" title="C&oacute;digo-fonte deste tema sob a licen&ccedil;a GPLv3">
+                            <img data-src="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/img/creditos-git.png" alt="C&oacute;digo-fonte deste tema sob a licen&ccedil;a GPLv3 (abre uma nova p&aacute;gina)" class="lazyload" width="43" height="18"/>
+                        </a>
+                        <!-- Creative Commons -->
+                        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR" target="_blank" rel="noopener license" data-toggle="tooltip" data-placement="top" title="M&iacute;dia licenciada sob a Licen&ccedil;a Creative Commons Atribui&ccedil;&atilde;o-N&atilde;oComercial-CompartilhaIgual 4.0 Internacional">
+                            <img data-src="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/img/creditos-cc-by-nc-sa.png" alt="M&iacute;dia licenciada sob a Licen&ccedil;a Creative Commons Atribui&ccedil;&atilde;o-N&atilde;oComercial-CompartilhaIgual 4.0 Internacional (abre uma nova p&aacute;gina)" class="lazyload" width="80" height="15"/>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <a href="#fim-rodape" id="fim-rodape" class="sr-only">Fim do rodap&eacute;</a>
+    </footer>
+
+    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/sertao\/*"},{"not":{"href_matches":["\/sertao\/wp-*.php","\/sertao\/wp-admin\/*","\/sertao\/wp-content\/uploads\/sites\/7\/*","\/sertao\/wp-content\/*","\/sertao\/wp-content\/plugins\/*","\/sertao\/wp-content\/themes\/ifrs-portal-theme-campus\/*","\/sertao\/wp-content\/themes\/ifrs-portal-theme\/*","\/sertao\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="text/javascript" src="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/js/commons.js?ver=1707238519" id="commons-js"></script>
+<script type="text/javascript" src="https://ifrs.edu.br/sertao/wp-content/themes/ifrs-portal-theme/js/portal.js?ver=1707238519" id="portal-js"></script>
+<script type="text/javascript" defer="defer" src="https://vlibras.gov.br/app/vlibras-plugin.js" id="vlibras-js"></script>
+
+    <!-- VLibras -->
+    <div vw class="enabled">
+        <div vw-access-button class="active"></div>
+        <div vw-plugin-wrapper>
+            <div class="vw-plugin-top-wrapper"></div>
+        </div>
+    </div>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.447 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2025-09-08 17:25:33 -->
+
+<!-- Compression = gzip -->

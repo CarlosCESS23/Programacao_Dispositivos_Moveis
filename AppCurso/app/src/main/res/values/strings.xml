@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">Curso</string>
+    <string name="app_name" translatable="false">Curso</string>
+    <string name="curso1" translatable="false">Bacharelado em Ciẽncia da Computação</string>
+    <string name="curso2" translatable="false">Engenharia de Mecânica</string>
+    <string name="curso3" translatable="false">Engenharia Cívil</string>
+    <string name="curso4" translatable="false">Licenciatura em Ciências Biológicas</string>
+    <string name="curso5" translatable="false">Licenciatura em Matemática</string>
+    <string name="curso6" translatable="false">Licenciatura em Física</string>
+    <string name="curso7" translatable="false">Licenciatura em Química</string>
+    <string name="curso8" translatable="false">Tecnologia em Produção Publicitária</string>
+    <string name="curso9" translatable="false">Tecnologia em Processos Químicos</string>
+    <string name="curso10" translatable="false">Tecnologia em Alimentos</string>
+    <string name="curso11" translatable="false">Tecnologia em Análise e Desenvolvimento em Sistema</string>
+    <string name="curso12" translatable="false">Técnico em Segurança do Trabalho</string>
+    <string name="curso13" translatable="false">Técnico em Edificação</string>
+    <string name="curso14" translatable="false">Técnico em Química</string>
+    <string name="curso15" translatable="false">Técnico em Eletrotécnica</string>
+    <string name="curso16" translatable="false">Técnico em Mecânica</string>
 </resources>
