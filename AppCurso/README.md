@@ -28,6 +28,7 @@ Um elemento combinável para representar um item da grade de temas dos cursos:
 <br>
 Cada item vai mostrar a imagem, o nome e o número de cursos relacionados a um determinado tema, além
 de ícone decorativo
+<br>
 <li>
 Um elemento combinável para mostrar uma grade dos itens dos temas de cada curso
 </li>
